@@ -1,0 +1,79 @@
+.body{
+      background-color: aliceblue;
+      margin: 10px;
+}
+
+.knopka{
+    background-color: green;   /* задний фон */
+    font-size: 30px;            /* размер шрифта */
+    color: white;             /* цвет текста */
+    padding: 20px;              /* внутренний отступ */
+    border-radius: 20px;        /* круглые углы */
+    margin: 20px;               /* внешний оступ */
+    text-decoration: none;      /* убирает нижнее подчеркивание */
+}   
+
+
+
+
+
+.stranica{
+    background-color: blue;   /* задний фон */
+    font-size: 30px;            /* размер шрифта */
+    color: white;             /* цвет текста */
+    padding: 20px;              /* внутренний отступ */
+    border-radius: 20px;        /* круглые углы */
+    margin: 20px;               /* внешний оступ */
+    text-decoration: none;      /* убирает нижнее подчеркивание */
+}   
+
+.menu{
+    background-color: aquamarine;
+    padding: 25px;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+
+}
+.m1{
+     font-size: 80px;
+     text-decoration: none;
+     background-color: aqua;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
